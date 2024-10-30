@@ -8,3 +8,7 @@
 ## Tourism การท่องเที่ยว
 
 - TAT Web Service APIs : https://developers.tourismthailand.org/console/
+
+## Telecommunication โทรคมนาคม 
+
+- Thai Bulk SMS: บริการส่ง SMS อัตโนมัติ รวมถึง SMS OTP [Link](https://developer.thaibulksms.com/)
