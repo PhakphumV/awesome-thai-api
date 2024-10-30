@@ -34,6 +34,7 @@
 
 - [Thailand Government Spending API](https://govspending.data.go.th/api/documentation): บริการข้อมูลการใช้จ่ายภาครัฐ
 - [The Revenue Department of Thailand Web Services](https://www.rd.go.th/42545.html): บริการข้อมูลโดยกรมสรรพากร เช่น ตรวจสอบความถูกต้องของเลขประจำตัวผู้เสียภาษีอากร ตรวจสอบสถานะและรายละเอียดผู้ประกอบการ ผลการจัดเก็บภาษีอากรโดยรวมข ฯลฯ
+- [TMD Weather Forecast API](https://data.tmd.go.th/nwpapi/doc/): บริการข้อมูลพยากรณ์อากาศด้วยระบบคอมพิวเตอร์สมรรถนะสูง โดยกรมอุตุนิยมวิทยา
 
 ## Sport กีฬา
 
