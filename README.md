@@ -12,3 +12,7 @@
 ## Telecommunication โทรคมนาคม 
 
 - [Thai Bulk SMS](https://developer.thaibulksms.com/): บริการส่ง SMS อัตโนมัติ รวมถึง SMS OTP
+
+## Logistic การขนส่ง
+
+- [Thailand Post API](https://track.thailandpost.co.th/developerGuide): บริการตรวจสอบสถานะการส่งพัสดุของไปรษณีย์ไทย
