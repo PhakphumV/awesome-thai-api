@@ -5,6 +5,7 @@
 
 - [Kasikorn Bank APIs](https://apiportal.kasikornbank.com/product): บริการ API โดยธนาคารกสิกร
 - [Bangkok Bank APIs](https://apiportal.bangkokbank.com/th/apis): บริการ API โดยธนาคารกรุงเทพ
+- [SMART Marketplace](https://www.set.or.th/th/services/connectivity-and-data/data/smart-marketplace): บริการข้อมูล SET และ TFEX ผ่าน API
 
 ## Medical การแพทย์
 
