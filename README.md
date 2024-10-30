@@ -3,7 +3,8 @@
 
 ## Finance การเงิน
 
-- [K API](https://apiportal.kasikornbank.com/product): บริการ API โดยธนาคารกสิกร
+- [Kasikorn Bank APIs](https://apiportal.kasikornbank.com/product): บริการ API โดยธนาคารกสิกร
+- [Bangkok Bank APIs](https://apiportal.bangkokbank.com/th/apis): บริการ API โดยธนาคารกรุงเทพ
 
 ## Medical การแพทย์
 
