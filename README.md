@@ -29,6 +29,10 @@
 
 - [Thailand Post API](https://track.thailandpost.co.th/developerGuide): บริการตรวจสอบสถานะการส่งพัสดุของไปรษณีย์ไทย
 
+## Goverment
+
+- [Thailand Government Spending API](https://govspending.data.go.th/api/documentation): บริการข้อมูลการใช้จ่ายภาครัฐ 
+
 ## Sport
 
 ## Culture
