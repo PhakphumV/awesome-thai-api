@@ -9,6 +9,7 @@
   - เพิ่มเติม [https://www.set.or.th/app/online-data](https://www.set.or.th/app/online-data)
 - [Settrade Open API](https://developer.settrade.com/open-api/document): API สำหรับเขียนบอทลงทุน
 - [BOT Exchange Rates API](https://apiportal.bot.or.th/bot/public/node/504): อัตราแลกเปลี่ยนระหว่างเงินไทยกับเงินสกุลต่างประเทศ
+- [SEC API](https://api-portal.sec.or.th/products): บริการข้อมูลที่อยู่ในความครอบครองของ ก.ล.ต. (สำนักงานคณะกรรมการกำกับหลักทรัพย์และตลาดหลักทรัพย์)
 
 ## Energy พลังงาน
 
