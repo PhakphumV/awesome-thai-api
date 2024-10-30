@@ -7,11 +7,13 @@
 - [Bangkok Bank APIs](https://apiportal.bangkokbank.com/th/apis): บริการ API โดยธนาคารกรุงเทพ
 - [SET SMART Marketplace](https://www.set.or.th/th/services/connectivity-and-data/data/smart-marketplace): บริการข้อมูล SET และ TFEX ผ่าน API
   - เพิ่มเติม [https://www.set.or.th/app/online-data](https://www.set.or.th/app/online-data)
-- [Settrade Open API](https://developer.settrade.com/open-api/document): 
+- [Settrade Open API](https://developer.settrade.com/open-api/document): API สำหรับเขียนบอทลงทุน
+- [BOT Exchange Rates API](https://apiportal.bot.or.th/bot/public/node/504): อัตราแลกเปลี่ยนระหว่างเงินไทยกับเงินสกุลต่างประเทศ
 
 ## Energy พลังงาน
 
 - [Bangchak Oil Price](https://www.bangchak.co.th/th/oilprice): ราคาน้ำมันขายปลีกของ บริษัท บางจาก คอร์ปอเรชั่น จำกัด
+- [PTT Oil Price](https://www.pttor.com/th/oil_price): ราคาน้ำมันขายปลีกของ บริษัท ปตท.
 
 ## Medical การแพทย์
 
