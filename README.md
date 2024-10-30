@@ -3,6 +3,8 @@
 
 ## Finance การเงิน
 
+- [K API](https://apiportal.kasikornbank.com/product): บริการ API โดยธนาคารกสิกร
+
 ## Medical การแพทย์
 
 ## Tourism การท่องเที่ยว
