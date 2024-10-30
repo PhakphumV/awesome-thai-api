@@ -9,6 +9,10 @@
   - เพิ่มเติม [https://www.set.or.th/app/online-data](https://www.set.or.th/app/online-data)
 - [Settrade Open API](https://developer.settrade.com/open-api/document): 
 
+## Energy พลังงาน
+
+- [Bangchak Oil Price](https://www.bangchak.co.th/th/oilprice): ราคาน้ำมันขายปลีกของ บริษัท บางจาก คอร์ปอเรชั่น จำกัด
+
 ## Medical การแพทย์
 
 ## Tourism การท่องเที่ยว
