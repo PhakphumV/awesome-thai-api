@@ -28,3 +28,9 @@
 ## Logistic การขนส่ง
 
 - [Thailand Post API](https://track.thailandpost.co.th/developerGuide): บริการตรวจสอบสถานะการส่งพัสดุของไปรษณีย์ไทย
+
+## Sport
+
+## Culture
+
+- [Minitry of Culture](https://bigdata.m-culture.go.th/openapi): บริการข้อมูลเปิดจากกระทรวงวัฒนธรรม เช่น รายชื่อศาสนสถาน แหล่งท่องเที่ยวทางธรรมชาติ แหล่งท่องเที่ยวทางวัฒนธรรมและประวัติศาสตร์
