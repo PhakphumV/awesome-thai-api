@@ -29,13 +29,16 @@
 
 - [Thailand Post API](https://track.thailandpost.co.th/developerGuide): บริการตรวจสอบสถานะการส่งพัสดุของไปรษณีย์ไทย
 
-## Goverment
+## Goverment หน่วยงานรัฐ
 
 - [Thailand Government Spending API](https://govspending.data.go.th/api/documentation): บริการข้อมูลการใช้จ่ายภาครัฐ
 - [The Revenue Department of Thailand Web Services](https://www.rd.go.th/42545.html): บริการข้อมูลโดยกรมสรรพากร เช่น ตรวจสอบความถูกต้องของเลขประจำตัวผู้เสียภาษีอากร ตรวจสอบสถานะและรายละเอียดผู้ประกอบการ ผลการจัดเก็บภาษีอากรโดยรวมข ฯลฯ
 
-## Sport
+## Sport กีฬา
 
-## Culture
+## Art & Culture ศิลปะและวัฒนธรรม
 
 - [Minitry of Culture](https://bigdata.m-culture.go.th/openapi): บริการข้อมูลเปิดจากกระทรวงวัฒนธรรม เช่น รายชื่อศาสนสถาน แหล่งท่องเที่ยวทางธรรมชาติ แหล่งท่องเที่ยวทางวัฒนธรรมและประวัติศาสตร์
+
+## Misc อื่นๆ
+- [Thai Address by Thaikub.com](https://www.thaikub.com/apis/thai-address): ที่อยู่ประเทศไทย โดย ไทยครับ.com
