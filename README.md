@@ -18,6 +18,11 @@
 
 ## Medical การแพทย์
 
+## Commerce พาณิชย์
+
+- [Shopee API](https://open.shopee.com/documents/v2/v2.product.get_category?module=89&type=1)
+- [Lazada API](https://open.lazada.com/apps/doc/api?path=%2Fauth%2Ftoken%2Fcreate)
+
 ## Tourism การท่องเที่ยว
 
 - [TAT Web Service APIs](https://developers.tourismthailand.org/console/): บริการข้อมูลสถานที่ท่องเที่ยว สถานที่สำคัญ และกิจกรรมต่างๆ จากททท.
@@ -25,6 +30,7 @@
 ## Telecommunication โทรคมนาคม 
 
 - [Thai Bulk SMS](https://developer.thaibulksms.com/): บริการส่ง SMS อัตโนมัติ รวมถึง SMS OTP
+- [LINE Messaging API](https://linedevth.line.me/th/messaging-api)
 
 ## Logistic การขนส่ง
 
