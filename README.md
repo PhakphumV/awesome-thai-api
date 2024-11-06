@@ -16,6 +16,7 @@
 
 - [Bangchak Oil Price](https://www.bangchak.co.th/th/oilprice): ราคาน้ำมันขายปลีกของ บริษัท บางจาก คอร์ปอเรชั่น จำกัด
 - [PTT Oil Price](https://www.pttor.com/th/oil_price): ราคาน้ำมันขายปลีกของ บริษัท ปตท.
+- [MEA API](https://mapapi.mea.or.th/home/document#intro): บริการข้อมูลแผนที่ฐานและระบบไฟฟ้าของการไฟฟ้านครหลวง
 
 ## Medical การแพทย์
 
