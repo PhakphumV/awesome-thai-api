@@ -46,6 +46,7 @@
 ## Logistic การขนส่ง
 
 - [Thailand Post API](https://track.thailandpost.co.th/developerGuide): บริการตรวจสอบสถานะการส่งพัสดุของไปรษณีย์ไทย
+- [Longdo Map API](https://api.longdo.com/map/doc/)
 
 ## Goverment หน่วยงานรัฐ
 
