@@ -58,6 +58,7 @@
 - [TMD Weather Forecast API](https://data.tmd.go.th/nwpapi/doc/): บริการข้อมูลพยากรณ์อากาศด้วยระบบคอมพิวเตอร์สมรรถนะสูง โดยกรมอุตุนิยมวิทยา
 - [Business Data Exchange](https://bdex.dbd.go.th/landing/private/landing): บริการเชื่อมโยงข้อมูลธุรกิจสำหรับหน่วยงานเอกชน
 - [DIP E-Exchange Platform API](https://api.ipthailand.go.th/): ระบบแลกเปลี่ยนข้อมูลของกรมทรัพย์สินทางปัญญา
+- [RD E-Filing API](https://efiling.rd.go.th/content/os9/document/index.html): API เสียอากรแสตมป์เป็นตัวเงินสำหรับตราสารอิเล็กทรอนิกส์ 
 
 ## Sport กีฬา
 
