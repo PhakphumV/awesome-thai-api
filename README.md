@@ -14,6 +14,10 @@
 - [SEC API](https://api-portal.sec.or.th/products): บริการข้อมูลที่อยู่ในความครอบครองของ ก.ล.ต. (สำนักงานคณะกรรมการกำกับหลักทรัพย์และตลาดหลักทรัพย์)
 - [Innovestx Open API](https://api-docs.innovestxonline.com/#authenticate-message)
 
+## Insurance ประกัน
+
+- [Jaymart Insurance APIs](https://service.jaymartinsurance.co.th/pages/docs/motor/): บริการ API สำหรับตัวแทนและนายหน้า บริษัท เจมาร์ท ประกันภัย จำกัด
+
 ## Energy พลังงาน
 
 - [Bangchak Oil Price](https://www.bangchak.co.th/th/oilprice): ราคาน้ำมันขายปลีกของ บริษัท บางจาก คอร์ปอเรชั่น จำกัด
