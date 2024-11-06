@@ -4,6 +4,7 @@
 ## Finance การเงิน
 
 - [Kasikorn Bank APIs](https://apiportal.kasikornbank.com/product): บริการ API โดยธนาคารกสิกร
+- [Kasikorn QR API](https://www.kasikornbank.com/th/business/sme/financial-services/pages/qr-api.aspx)
 - [Bangkok Bank APIs](https://apiportal.bangkokbank.com/th/apis): บริการ API โดยธนาคารกรุงเทพ
 - [SET SMART Marketplace](https://www.set.or.th/th/services/connectivity-and-data/data/smart-marketplace): บริการข้อมูล SET และ TFEX ผ่าน API
   - เพิ่มเติม [https://www.set.or.th/app/online-data](https://www.set.or.th/app/online-data)
