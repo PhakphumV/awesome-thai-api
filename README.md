@@ -31,6 +31,7 @@
 
 - [Thai Bulk SMS](https://developer.thaibulksms.com/): บริการส่ง SMS อัตโนมัติ รวมถึง SMS OTP
 - [LINE Messaging API](https://linedevth.line.me/th/messaging-api)
+- [LINE Open API](https://github.com/line/line-openapi)
 - [True API](https://truebusiness.truecorp.co.th/th/solution/trueapis)
 - [AIS API](https://www.ais.th/business/enterprise/technology-and-solution/communication/ais-open-api)
 
