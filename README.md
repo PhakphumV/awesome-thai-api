@@ -43,11 +43,12 @@
 - [True API](https://truebusiness.truecorp.co.th/th/solution/trueapis)
 - [AIS API](https://www.ais.th/business/enterprise/technology-and-solution/communication/ais-open-api)
 
-## Logistic การขนส่ง
+## Logistic & Map การขนส่งและแผนที่
 
 - [Thailand Post API](https://track.thailandpost.co.th/developerGuide): บริการตรวจสอบสถานะการส่งพัสดุของไปรษณีย์ไทย
 - [Longdo Map API](https://api.longdo.com/map/doc/)
   - เพิ่มเติม [https://map.longdo.com/docs/](https://map.longdo.com/docs/)
+- [Nostra Map API](https://developer.nostramap.com/developerV3/docs/js/home/)
 
 ## Goverment หน่วยงานรัฐ
 
